@@ -1,4 +1,4 @@
-# Git Course
+# Git and Github Course
 
 Iniciando repositório para estudo sobre o Git e Github.
 
